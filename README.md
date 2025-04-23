@@ -53,6 +53,9 @@ AI-powered Terraform generator that creates cloud resources using natural langua
 
 Live App: https://cloud-agent-workbench-alaeddineabdess.replit.app/
 
+![QR Code](https://github.com/alaeddine-13/alaeddine-13/raw/main/frame.png)
+
+
 
 **Features:**
 - Natural language-based resource creation
